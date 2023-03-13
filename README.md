@@ -19,3 +19,5 @@
 1.make, make all, make skyscrapers 명령어 중 하나로 프로그램을 빌드합니다.
 
 2../skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"의 형태로 프로그램을 실행합니다. 이때 col1up ... row4right에는 아래 그림에서 해당하는 위치에 주어진 수를 넣어야합니다.
+
+![example3](https://user-images.githubusercontent.com/97381683/224587727-f05bab44-50e3-4751-b687-b3771e686496.PNG)
