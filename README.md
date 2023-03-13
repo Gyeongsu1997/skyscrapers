@@ -26,3 +26,8 @@
 - 예시
 
 ![example4](https://user-images.githubusercontent.com/97381683/224589430-ad689452-b76d-418b-ae08-d8b82f760b2c.PNG)
+
+가능한 답을 찾을 수 없거나 잘못된 형태의 프로그램 인수가 주어지면 Error라고 출력한다.
+
+- 예시
+
