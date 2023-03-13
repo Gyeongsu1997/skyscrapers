@@ -27,6 +27,6 @@
 
 ![example4](https://user-images.githubusercontent.com/97381683/224589430-ad689452-b76d-418b-ae08-d8b82f760b2c.PNG)
 
-가능한 답을 찾을 수 없거나 잘못된 형태의 프로그램 인수가 주어지면 Error라고 출력한다.
+가능한 답을 찾을 수 없거나 잘못된 형태의 프로그램 인수가 주어지면 Error라고 출력합니다.
 
 ![example5](https://user-images.githubusercontent.com/97381683/224590418-5e9f5d99-02ed-476d-9a72-fefb77d6de94.PNG)
