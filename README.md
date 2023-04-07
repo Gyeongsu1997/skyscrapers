@@ -1,6 +1,6 @@
-## 개요
+## Abstract
 
-백트래킹 알고리즘을 사용하여 4 x 4 skyscrapers puzzle의 해답을 찾는 프로그램을 구현하였습니다.
+I implemented a program to find the solution to a 4 x 4 skyscrapers puzzle using a backtracking algorithm.
 
 [skyscrapers puzzle 풀어보기](https://www.brainbashers.com/skyscrapers.asp)
 
@@ -14,7 +14,7 @@
 
 ![example2](https://user-images.githubusercontent.com/97381683/224586420-46ad0ee9-38ec-4f67-9cc1-1ac3170255bb.PNG)
 
-## 사용방법
+## How to use
 
 1. make, make all, make skyscrapers 명령어 중 하나로 프로그램을 빌드합니다.
 
