@@ -2,7 +2,9 @@
 
 This is a program to find the solution to a 4 x 4 skyscrapers puzzle using a backtracking algorithm.
 
-[skyscrapers puzzle 풀어보기](https://www.brainbashers.com/skyscrapers.asp)
+You can try the skyscrapers puzzle at the site below.
+
+[brainbashers.com](https://www.brainbashers.com/skyscrapers.asp)
 
 4 x 4 skyscrapers puzzle은 주어진 지도를 높이가 1이상 4이하인 건물로 채우는 퍼즐입니다. 단, 이때 각 행과 열에는 같은 높이의 건물을 두 개 이상 배치할 수 없습니다.
 
@@ -14,7 +16,7 @@ This is a program to find the solution to a 4 x 4 skyscrapers puzzle using a bac
 
 ![example2](https://user-images.githubusercontent.com/97381683/224586420-46ad0ee9-38ec-4f67-9cc1-1ac3170255bb.PNG)
 
-## How to use
+## Usage
 
 1. make, make all, make skyscrapers 명령어 중 하나로 프로그램을 빌드합니다.
 
