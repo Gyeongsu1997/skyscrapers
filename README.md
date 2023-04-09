@@ -4,7 +4,7 @@ This is a program to find the solution to a 4 x 4 skyscrapers puzzle using a bac
 
 You can try the skyscrapers puzzle at the site below.
 
-[brainbashers.com](https://www.brainbashers.com/skyscrapers.asp)
+[BrainBashers](https://www.brainbashers.com/skyscrapers.asp)
 
 4 x 4 skyscrapers puzzle은 주어진 지도를 높이가 1이상 4이하인 건물로 채우는 퍼즐입니다. 단, 이때 각 행과 열에는 같은 높이의 건물을 두 개 이상 배치할 수 없습니다.
 
