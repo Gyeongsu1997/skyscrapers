@@ -6,7 +6,7 @@ You can try the skyscrapers puzzle at the site below.
 
 [BrainBashers](https://www.brainbashers.com/skyscrapers.asp)
 
-4 x 4 skyscrapers puzzle은 주어진 지도를 높이가 1이상 4이하인 건물로 채우는 퍼즐입니다. 단, 이때 각 행과 열에는 같은 높이의 건물을 두 개 이상 배치할 수 없습니다.
+The 4 x 4 skyscrapers puzzle is to fill a given map with buildings that are at least 1 and no more than 4 in height. 단, 이때 각 행과 열에는 같은 높이의 건물을 두 개 이상 배치할 수 없습니다.
 
 또한 아래 그림과 같이 각 방향에서 보는 시야가 주어지면 해당 조건에 맞게 건물을 배치해야 합니다.
 
