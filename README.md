@@ -1,6 +1,6 @@
 ## Abstract
 
-I implemented a program to find the solution to a 4 x 4 skyscrapers puzzle using a backtracking algorithm.
+This is a program to find the solution to a 4 x 4 skyscrapers puzzle using a backtracking algorithm.
 
 [skyscrapers puzzle 풀어보기](https://www.brainbashers.com/skyscrapers.asp)
 
