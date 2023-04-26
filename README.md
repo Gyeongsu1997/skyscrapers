@@ -1,4 +1,4 @@
-## Abstract
+## About
 
 This is a program to find the solution to a 4 x 4 skyscrapers puzzle using a backtracking algorithm.
 
@@ -6,7 +6,7 @@ You can try the skyscrapers puzzle at the site below.
 
 [BrainBashers](https://www.brainbashers.com/skyscrapers.asp)
 
-The 4 x 4 skyscrapers puzzle is to fill a given map with buildings that are at least 1 and no more than 4 in height. 단, 이때 각 행과 열에는 같은 높이의 건물을 두 개 이상 배치할 수 없습니다.
+To solve 4 x 4 skyscrapers puzzle, you should fill a given map with buildings that are at least 1 and no more than 4 in height. But, you can't place more than one building of the same height in each row and column.
 
 또한 아래 그림과 같이 각 방향에서 보는 시야가 주어지면 해당 조건에 맞게 건물을 배치해야 합니다.
 
