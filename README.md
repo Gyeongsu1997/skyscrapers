@@ -20,15 +20,14 @@ Here's the solution to the puzzle above.
 
 1. Build the program with one of the 'make', 'make all', or 'make skyscrapers' commands.
 
-2. **./skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"**
-의 형태로 프로그램을 실행합니다. 이때 col1up ... row4right 부분에는 아래 그림에서 해당하는 위치에 주어진 수를 넣어야합니다.
+2. Run the program in the form of **./skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"**. 이때 col1up ... row4right 부분에는 아래 그림에서 해당하는 위치에 주어진 수를 넣어야합니다.
 
 ![example3](https://user-images.githubusercontent.com/97381683/224587727-f05bab44-50e3-4751-b687-b3771e686496.PNG)
 
-- 예시
+- example
 
 ![example4](https://user-images.githubusercontent.com/97381683/224589430-ad689452-b76d-418b-ae08-d8b82f760b2c.PNG)
 
-가능한 답을 찾을 수 없거나 잘못된 형태의 프로그램 인수가 주어지면 Error라고 출력합니다.
+If no possible solution exists or an invalid form of a program argument is given, it prints 'Error'.
 
 ![example5](https://user-images.githubusercontent.com/97381683/224590418-5e9f5d99-02ed-476d-9a72-fefb77d6de94.PNG)
