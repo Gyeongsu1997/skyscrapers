@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=120&section=header&text=Skyscrapers&fontSize=70&desc=solve%204x4%20skyscrapers%20puzzle&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=120&section=header&text=Skyscrapers&fontSize=70)
 
 <h3 align="center">
 	<a href="#about">About</a>
 	<span> · </span>
-	<a href="#profile">Profile</a>
-	<span> · </span>
-	<a href="#projects">Projects</a>
+	<a href="#usage">Usage</a>
 </h3>
 
 ---
