@@ -12,13 +12,13 @@ In addition, the number of buildings that can be seen from each direction is giv
 
 ![example1](https://user-images.githubusercontent.com/97381683/224586276-1a94c9ea-927e-4677-b1d4-f329990d2f25.PNG)
 
-다음은 위 퍼즐에 대한 해답입니다.
+Here's the solution to the puzzle above.
 
 ![example2](https://user-images.githubusercontent.com/97381683/224586420-46ad0ee9-38ec-4f67-9cc1-1ac3170255bb.PNG)
 
 ## Usage
 
-1. make, make all, make skyscrapers 명령어 중 하나로 프로그램을 빌드합니다.
+1. Build the program with one of the 'make', 'make all', or 'make skyscrapers' commands.
 
 2. **./skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"**
 의 형태로 프로그램을 실행합니다. 이때 col1up ... row4right 부분에는 아래 그림에서 해당하는 위치에 주어진 수를 넣어야합니다.
