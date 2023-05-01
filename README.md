@@ -30,7 +30,7 @@ Here's the solution to the puzzle above.
 
 1. Build the program with one of the 'make', 'make all', or 'make skyscrapers' commands.
 
-2. Run the program in the form of **./skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"**. 이때 col1up ... row4right 부분에는 아래 그림에서 해당하는 위치에 주어진 수를 넣어야합니다.
+2. Run the program in the form of **./skyscrapers "col1up col2up col3up col4up col1down col2down col3down col4down row1left row2left row3left row4left row1right row2right row3right row4right"**. Instead of col1up to row4right, you need to put the numbers given in the corresponding positions in the figure below.
 
 ![example3](https://user-images.githubusercontent.com/97381683/224587727-f05bab44-50e3-4751-b687-b3771e686496.PNG)
 
