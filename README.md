@@ -18,7 +18,7 @@ You can try the skyscrapers puzzle at the site below.
 
 To solve 4 x 4 skyscrapers puzzle, you should fill a given map with buildings that are at least 1 and no more than 4 in height. But, you can't place more than one building of the same height in each row and column.
 
-In addition, the number of buildings that can be seen from each direction is given as a condition as shown below.
+In addition, the number of buildings that can be seen from each direction is given as a condition as shown below. If a higher building is in front of a lower building, the lower building behind it can't be seen.
 
 ![example1](https://user-images.githubusercontent.com/97381683/224586276-1a94c9ea-927e-4677-b1d4-f329990d2f25.PNG)
 
